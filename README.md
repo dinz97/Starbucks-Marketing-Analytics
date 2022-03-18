@@ -25,15 +25,15 @@ For this project, I was interested in Starbucks Capstone Project to:
 
 ## File Descriptions
 There are 1 data folder which contains 3 json files and 1 Jupyter notebook available to showcase work related to this project.
-* portfolio.json: This dataset contains 15,977 survey responses with 24 attributes describing how respondents live their lives.
-* profile.json:
-* transcript.json:
+* portfolio.json: contains data about promotional offer campaign by Starbucks
+* profile.json: contains data about Starbucks customer profile
+* transcript.json: contains data about transaction event of Starbucks customer
 * Starbucks_Capstone_notebook.ipynb: Jupyter Notebook to prepare data, perform analysis and build model.
 
 ## Results
 Summary of the key findings:
 1. 65% of customers completed the offers after viewing them
-2. Females have ahigher percentage of customers completing their offers compared to males
+2. Females have a higher percentage of customers completing their offers compared to males
 3. Older customers age 50 & above have higher likelihood to complete offers.
 4. Higher-income customers with 75k annual income have higher likelihood to complete the offers
 
